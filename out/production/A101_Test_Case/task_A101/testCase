@@ -1,0 +1,24 @@
+
+
+
+Course Name  A101 Test Otomasyon Practicum
+Type  First Case
+Language  Java
+Technologies to be used  Selenium
+Case Detail Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kullanarak test otomasyon ödevi yapılacak.
+
+
+Ödeme ekranı doldurulmayacak. Aşağıdaki senaryoyu web ve mobil olmak üzere 2 çeşit oluşturabilirlerse çok iyi olur. En az Web’de yapmak zorunlu.
+
+- Senaryoya üye kaydı oluşturmadan devam edilecek.
+- Giyim--> Aksesuar--> Kadın İç Giyim-->Dizaltı Çorap bölümüne girilir.
+- Penti kadın 50 denye pantolon çorabı siyah a tıklanır.
+- Açılan ürünün siyah olduğu doğrulanır.
+- Sepete ekle butonuna tıklanır.
+- Sepeti Görüntüle butonuna tıklanır.
+- Sepeti Onayla butonuna tıklanır.
+- Üye olmadan devam et butonuna tıklanır.
+- Mail ekranı gelir devam et butonuna tıklanır.
+- Sonrasında adres ekranı gelir. Adres oluştur dedikten sonra kaydet butonuna tıklanır
+- Adres& Kargo Bilgileri ekranı gelir, kargo firması seçilir kaydet butonuna tıklanır
+- Ödeme ekranı gelir ve ödeme ekranına gidildiği kontrol edilir.
