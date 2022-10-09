@@ -1,4 +1,4 @@
-✅ Proje Jave Selenium projesidir ve bu projede `Patika.dev` aracılığıyla  **A101 Test Otomasyon Practicum** programı kapsamında aşağıdaki task tamamlandı.
+✅ Proje Java Selenium projesidir ve bu projede `Patika.dev` aracılığıyla  **A101 Test Otomasyon Practicum** programı kapsamında aşağıdaki task tamamlandı.
 
 
 
