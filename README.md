@@ -2,7 +2,9 @@
 Selenium kullanıldı.
 
 ✅ Java OOP, Robot Class, Acctions Class, Assertion, Implicit Wait, Explicit Wait kullanarak A101 alışveriş sitesinden ürün seçip,
-   sepete ekleyip, müşteri kaydı oluşturup, ödeme ekranına kadar tüm stepler otomatize edildi.  
+   sepete ekleyip, müşteri kaydı oluşturup, ödeme ekranına kadar tüm stepler otomatize edildi.
+   
+✅ Proje Test Class'ından çalıştırılır.   
 
 
 
