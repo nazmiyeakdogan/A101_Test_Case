@@ -1,6 +1,9 @@
-✅ Proje Java Selenium projesidir ve bu projede `Patika.dev` aracılığıyla  **A101 Test Otomasyon Practicum** programı kapsamında aşağıdaki task tamamlandı.
+✅ `Patika.dev` aracılığıyla  **A101 Test Otomasyon Practicum** katılmaya hak kazandığım projede Java programlama dili ve
+Selenium kullanıldı.
+
+✅ Java OOP, Robot Class, Acctions Class, Assertion, Implicit Wait, Explicit Wait kullanarak A101 alışveriş sitesinden ürün seçip,
+   sepete ekleyip, müşteri kaydı oluşturup, ödeme ekranına kadar tüm stepler otomatize edildi.  
 
 
 
 
-[A101_testCase.docx](https://github.com/nazmiyeakdogan/A101_Test_Case/files/9740928/A101_testCase.docx)
